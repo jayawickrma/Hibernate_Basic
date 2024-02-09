@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdf9bbc1-4cfe-4707-a23e-987051f0b275" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching(lazy).iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching/src/main/java/lk/Ijse67/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching/src/main/java/lk/Ijse67/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching/src/main/java/lk/Ijse67/config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Data-fetching/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date-fetching-eager.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date-fetching-eager/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date-fetching-eager/src/main/java/lk/Ijse67/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date-fetching-eager/src/main/java/lk/Ijse67/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date-fetching-eager/src/main/java/lk/Ijse67/config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/Ijse67/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/Ijse67/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HQL/src/main/java/lk/Ijse67/config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HibernateDAY02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many/src/main/java/lk/Ijse/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many/src/main/java/lk/Ijse/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many/src/main/java/lk/Ijse/config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Many-To-many/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many/src/main/java/lk/Ijse/Config/FactoryConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many/src/main/java/lk/Ijse/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many/src/main/java/lk/Ijse/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-Many/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One/src/main/java/lk/Ijse/Config/FactoeyConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One/src/main/java/lk/Ijse/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One/src/main/java/lk/Ijse/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/One-To-One/src/main/resources/hibernate.cfg.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/Ijse67/Entity/Laptop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/Ijse67/Entity/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL/src/main/java/lk/Ijse67/config/FactoryConfiguration.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2bnPiCSh4hWSrIbWY6Deayv0G23" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_directory_selection": "C:/Users/Nisha/HibernateDAY02/One-To-One/src/main/java/lk/Ijse/Config",
+    "last_opened_file_path": "C:/Users/Nisha/HibernateDAY02/HQL/src/main/java/lk/Ijse67",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nisha\HibernateDAY02\HQL\src\main\java\lk\Ijse67" />
+      <recent name="C:\Users\Nisha\HibernateDAY02\SQL\src\main\java\lk\Ijse67" />
+      <recent name="C:\Users\Nisha\HibernateDAY02\Date-fetching-eager\src\main\java\lk\Ijse67" />
+      <recent name="C:\Users\Nisha\HibernateDAY02\Data-fetching\src\main\java\lk\Ijse67" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.">
+    <configuration type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="lk.Ijse67.Main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.Ijse67.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.Ijse.Main" />
+      <module name="One-To-Many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.Ijse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.Ijse.Main" />
+      <module name="Many-To-many" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.Ijse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lk.Ijse.Main" />
+      <module name="One-To-One" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lk.Ijse.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application." />
+        <item itemvalue="Application.Main (2)" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdf9bbc1-4cfe-4707-a23e-987051f0b275" name="Changes" comment="" />
+      <created>1706847998283</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706847998283</updated>
+      <workItem from="1706847999247" duration="12610000" />
+      <workItem from="1707153002973" duration="1648000" />
+      <workItem from="1707410333746" duration="11542000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

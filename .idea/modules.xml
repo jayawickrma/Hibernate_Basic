@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Date-fetching-eager.iml" filepath="$PROJECT_DIR$/Date-fetching-eager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL.iml" filepath="$PROJECT_DIR$/HQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HibernateDAY02.iml" filepath="$PROJECT_DIR$/HibernateDAY02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Many-To-many.iml" filepath="$PROJECT_DIR$/Many-To-many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One-To-Many.iml" filepath="$PROJECT_DIR$/One-To-Many.iml" />
+      <module fileurl="file://$PROJECT_DIR$/One-To-One.iml" filepath="$PROJECT_DIR$/One-To-One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL.iml" filepath="$PROJECT_DIR$/SQL.iml" />
+    </modules>
+  </component>
+</project>
